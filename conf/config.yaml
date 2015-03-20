@@ -1,0 +1,13 @@
+#Campfire alerting extension required properties
+
+#campfire User name
+userName: "satish_m"
+
+#campfire password
+password: "jagwar123"
+
+#campfire sub domain
+subDomain: "india11"
+
+#roomName to post messages to
+roomName: "Room 1"
