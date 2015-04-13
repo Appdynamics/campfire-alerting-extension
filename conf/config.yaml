@@ -1,10 +1,10 @@
 #Campfire alerting extension required properties
 
 #campfire User name
-userName: "satish_m"
+userName: ""
 
 #campfire password
-password: "jagwar123"
+password: ""
 
 #campfire sub domain
 subDomain: "india11"
