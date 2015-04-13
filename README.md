@@ -21,7 +21,8 @@ The Campfire alerting extension enables AppDynamics to post custom notifications
 5. Specify the values the properties in campfire-alert/conf/config.yaml
 6. In directory = <controller-install-dir>\custom\actions add custom.xml, add below action in xml file(modify if the file already exists, and merge the below action)
 
- ``<custom-actions>
+ ```
+ <custom-actions>
  	<action>
 		<type>campfire-alert</type>
        <!-- For windows *.bat -->
@@ -29,7 +30,8 @@ The Campfire alerting extension enables AppDynamics to post custom notifications
  		<!-- For Linux/Unix *.sh -->
  		<!-- executable>campfire-alert.sh</executable -->
  	</action>
- </custom-actions>``
+ </custom-actions>
+ ```
 
 7. UnComment the appropriate executable tag based on windows or linux/unix machine.
 
