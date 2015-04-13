@@ -11,6 +11,9 @@ The Campfire alerting extension enables AppDynamics to post custom notifications
 
 - You have a Campfire Account.
 - You have a chat room created (and active) to send alert messages to.
+- Campfire jinder library is not in maven repo. To get it using maven we have to install the library in the local maven repo. Jinder 0.0.1 is checked in to the lib folder. Use the below maven command to install the library to local maven repo.
+
+mvn install:install-file -Dfile={path to jinder jar} -DgroupId=com.madhackerdesigns -DartifactId=jinder -Dversion=0.0.1 -Dpackaging=jar
 
 ### Steps
 
