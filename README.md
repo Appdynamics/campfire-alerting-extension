@@ -45,7 +45,7 @@ Now you are ready to use this extension as a custom action. In the AppDynamics U
 
 ##Contributing
 
-Find out more in the [AppSphere]() community.
+Find out more in the [AppSphere](http://community.appdynamics.com/t5/eXchange-Community-AppDynamics/Campfire-Alerting-Extension/idi-p/14882) community.
 
 ##Support
 
